@@ -1,0 +1,8 @@
+{
+  "name": "Remix منصة الزخرفة الذكية وعصا الرموز التعبيرية",
+  "description": "أداة تفاعلية سريعة لزخرفة النصوص العربية والإنجليزية باحترافية، وتوفير لوحة رموز تعبيرية (Emojis) للنسخ الفوري واستخدامها في وسائل التواصل الاجتماعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
